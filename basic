@@ -1,1 +1,55 @@
 
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!\n";
+  cout<<"hello sparta\n";
+  cout<<"25,26\n";
+  cout<<"this is DSA Tutoral '52',26"<<endl;
+  cout<<"endl used for current statement ended on current line and print next line to new line like as ('\n')"<<endl;
+  cout<<"3+5"<<endl;
+  cout<<3+5<<endl;
+  cout<<20%10<<endl;
+  cout<<3-5<<endl;
+  cout<<3*5<<endl;
+  cout<<3/5<<endl;
+
+  // variable in c++ and its declaration
+
+  
+  //  intgers 
+  int s;
+  // or we can define and declaration in one statement
+  int d = 14;
+  s=14;
+  cout<<s <<endl;
+
+  // sum of numbers
+  int a = 10 , b = 12;
+  cout<<a+b<<endl;
+
+  //  charcter
+
+  char c = 's';
+  cout<<c<<endl;
+
+  // float
+
+  float tri =21.0354;
+  cout<<tri<<endl;
+
+  // double 
+
+  double fg = 256.548967;
+  cout<<fg<<endl;
+
+  // boolean
+
+  bool ut=false;
+  cout<<ut<<endl;
+
+  
+  
+  
+}
